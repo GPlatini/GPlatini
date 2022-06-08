@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Gabriel Platiní
 ##
 <div align="center">
-  <a href="https://github.com/GPlatini">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=GPlatini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPlatini&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Daniel0608">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GPlatini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPlatini&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   ##
