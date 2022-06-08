@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Gabriel Platiní
-##
 <div align="center">
   <a href="https://github.com/Daniel0608">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GPlatini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
